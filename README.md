@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JUST-OITO
-- 👀 I’m interested in Javasvript
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Html and Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
